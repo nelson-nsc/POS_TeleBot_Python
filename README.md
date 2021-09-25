@@ -2,6 +2,7 @@
 I created a pont of sales system for ordering food. The system is integrated with telegram's telebot function, where it sends each order to the bot chat automatically.
 
 ## Python Packages
+Please make sure you have installed the following packages in your environment:
 1. numpy
 3. pandas
 4. tabulate
