@@ -12,4 +12,4 @@ Please make sure you have installed the following packages in your environment:
 You can freely change the item names and prices inside the excel files "breakfast.xslx", "lunch.xlsx", "dinner.xlsx", "drinks.xlsx" and "snacks.xlsx". 
 
 ## Telebot (Optional)
-I have commented out line 264-265 which is the messaging part. To use the telebot function, simply replace "your_API" and "your_chat_id" with your own API and chat id. Please use the official [documentation](https://core.telegram.org/bots) or youtube (highly recommend!) on how to set up a chat bot.
+I have commented out line 263-264 which is the messaging part. To use the telebot function, simply replace "your_API" and "your_chat_id" with your own API and chat id. Please use the official [documentation](https://core.telegram.org/bots) or youtube (highly recommend!) on how to set up a chat bot.
